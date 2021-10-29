@@ -4,7 +4,7 @@ window.addEventListener('load', function () {
     const div = this.document.querySelector('.div');
     const arrayFoto = ['1.jpg', '2.jpg', '3.jpg'];
     var indexFoto = 0;
-    var Path = '/img/foto_';
+    var Path = './img/foto_';
 
 
     function back() {
