@@ -4,7 +4,7 @@
     border: 2px solid rebeccapurple;
     position: relative;
     margin: 200px auto;
-    background-image: url(/img/foto_1.jpg);
+    background-image: url(./img/foto_1.jpg);
     background-size: cover;
 }
 
