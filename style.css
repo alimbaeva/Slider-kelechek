@@ -1,0 +1,27 @@
+.div {
+    width: 700px;
+    height: 500px;
+    border: 2px solid rebeccapurple;
+    position: relative;
+    margin: 200px auto;
+    background-image: url(/img/foto_1.jpg);
+    background-size: cover;
+}
+
+.img-1 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 40%;
+    left: 3%;
+    cursor: pointer;
+}
+
+.img-2 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 40%;
+    left: 90%;
+    cursor: pointer;
+}
